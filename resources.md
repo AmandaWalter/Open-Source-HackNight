@@ -26,7 +26,12 @@ The official git site [http://git-scm.com/](http://git-scm.com/)
 
  Some information about open source projects (like Python!) you can get involved with, and some good advice!
  [http://www.itworld.com/article/2828805/it-management/7-open-source-projects-to-cut-your-teeth-on--and-the-ones-to-avoid-.html](http://www.itworld.com/article/2828805/it-management/7-open-source-projects-to-cut-your-teeth-on--and-the-ones-to-avoid-.html)
- 
+
 
 ## Some advice on contributing
 From GitHub [https://guides.github.com/activities/contributing-to-open-source/](https://guides.github.com/activities/contributing-to-open-source/)
+
+## Smarter Every Day
+### This is the video of the caterpillar movement used in the beginning of the presentation... it is so cool!
+
+[https://www.youtube.com/watch?v=kbFMkXTMucA](https://www.youtube.com/watch?v=kbFMkXTMucA)
